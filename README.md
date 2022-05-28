@@ -1,2 +1,2 @@
 # Financial-Market-analysis-Python
-Dollar Analysis Exercise-( Regression Method)
+Dollar Analysis-( Regression Method)
